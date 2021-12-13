@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Basavask/monsters-world-react/static/css/main.c45f30bd.chunk.css",
+    "main.js": "/Basavask/monsters-world-react/static/js/main.8e8d6f32.chunk.js",
+    "main.js.map": "/Basavask/monsters-world-react/static/js/main.8e8d6f32.chunk.js.map",
+    "runtime-main.js": "/Basavask/monsters-world-react/static/js/runtime-main.74445816.js",
+    "runtime-main.js.map": "/Basavask/monsters-world-react/static/js/runtime-main.74445816.js.map",
+    "static/js/2.f82df530.chunk.js": "/Basavask/monsters-world-react/static/js/2.f82df530.chunk.js",
+    "static/js/2.f82df530.chunk.js.map": "/Basavask/monsters-world-react/static/js/2.f82df530.chunk.js.map",
+    "static/js/3.8fef5de1.chunk.js": "/Basavask/monsters-world-react/static/js/3.8fef5de1.chunk.js",
+    "static/js/3.8fef5de1.chunk.js.map": "/Basavask/monsters-world-react/static/js/3.8fef5de1.chunk.js.map",
+    "index.html": "/Basavask/monsters-world-react/index.html",
+    "static/css/main.c45f30bd.chunk.css.map": "/Basavask/monsters-world-react/static/css/main.c45f30bd.chunk.css.map",
+    "static/js/2.f82df530.chunk.js.LICENSE.txt": "/Basavask/monsters-world-react/static/js/2.f82df530.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74445816.js",
+    "static/js/2.f82df530.chunk.js",
+    "static/css/main.c45f30bd.chunk.css",
+    "static/js/main.8e8d6f32.chunk.js"
+  ]
+}
